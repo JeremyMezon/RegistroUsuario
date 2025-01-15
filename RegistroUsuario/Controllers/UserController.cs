@@ -21,7 +21,7 @@ namespace RegistroUsuario.Controllers
         public async Task<ActionResult> UserRegister([FromBody]UserDto user )
         {
             var User = await userService.UserRegister(user);
-            return Created("/",new { mensaje = "Hola" ,data = User });
+            return Created("/", User);
         }
 
     }
