@@ -42,7 +42,6 @@ namespace RegistroUsuario.Services
 
             return await context.Users
             .Include(u => u.phones)
-            .Select(p => new { p.id,p.created,p.modified,p.last_login,p.token,p.is_active })
             .FirstOrDefaultAsync(u => u.id == user.id);
         }
 
