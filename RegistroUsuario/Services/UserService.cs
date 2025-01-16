@@ -1,7 +1,9 @@
 ﻿using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.OpenApi.Any;
 using RegistroUsuario.Context;
 using RegistroUsuario.Dto;
+using RegistroUsuario.Helpers;
 using RegistroUsuario.Interfaces;
 using RegistroUsuario.Models;
 using System.Text.RegularExpressions;
@@ -11,14 +13,16 @@ namespace RegistroUsuario.Services
     public class UserService : IUserService
     {
         private readonly AppDbContext context;
-        public UserService(AppDbContext context)
+        private readonly TokenGenerator tokenGenerator;
+        public UserService(AppDbContext context, TokenGenerator tokenGenerator)
         {
             this.context = context;
+            this.tokenGenerator = tokenGenerator;
         }
 
-        public async Task<dynamic> UserRegister(UserDto userDto)
+        public async Task<Users> userRegister(UserDto userDto)
         {
-            if (!validateUser(userDto)) return null;
+            string token = tokenGenerator.generateToken(userDto);
             var user = new Users
             {
                 name = userDto.name,
@@ -33,7 +37,7 @@ namespace RegistroUsuario.Services
                 created = DateTime.Now,
                 modified = DateTime.Now,
                 last_login = DateTime.Now,
-                token = Guid.NewGuid().ToString(),
+                token = token,
                 is_active = true
             };
 
@@ -65,12 +69,17 @@ namespace RegistroUsuario.Services
             return false;
         }
 
-        private bool validateUser(UserDto userDto)
+        public ApiResponseMessage<string> validateUser(UserDto userDto)
         {
-            if (!validateEmailFormat(userDto.email)) return false;
-            if (!validatePasswordFormat(userDto.password)) return false;
-            if (emailAlreadyExists(userDto)) return false;
-            return true;
+            var test = new ApiResponseMessage<string> { success = false, message = "Mensaje"};
+            ApiResponseMessage<string> apiResponse = new ApiResponseMessage<string>();
+            if (!validateEmailFormat(userDto.email))
+                return new ApiResponseMessage<string> { success = false, message = "Formato de email no es correcto" };
+            if (!validatePasswordFormat(userDto.password)) 
+                return new ApiResponseMessage<string> { success = false, message = "Formato de contraseña no es correcto" };
+            if (emailAlreadyExists(userDto)) 
+                return new ApiResponseMessage<string> { success = false, message = "El correo ya esta registrado" }; ;
+            return new ApiResponseMessage<string> { success = true, message = "Usuario validado" }; ;
         }
     }
 }

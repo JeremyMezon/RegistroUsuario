@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "xzAZtGWQwYLV3J3e/wSgomwJhLih/B/idL0rCqHx4cc=",
+  "Hash": "9s7pcIbhLC2BWtkIbQ5gkniC2JS2EvBzesn3L5JpKZw=",
   "Source": "RegistroUsuario",
   "BasePath": "_content/RegistroUsuario",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }

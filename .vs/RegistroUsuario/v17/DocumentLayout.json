@@ -1,54 +1,61 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "Z:\\Desktop\\Registro\\RegistroUsuario\\",
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\BHD Prueba\\RegistroUsuario\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A3564C2A-5410-476D-8FBE-9F9505516097}|RegistroUsuario\\RegistroUsuario.csproj|z:\\desktop\\registro\\registrousuario\\registrousuario\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A3564C2A-5410-476D-8FBE-9F9505516097}|RegistroUsuario\\RegistroUsuario.csproj|solutionrelative:registrousuario\\.env||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3564C2A-5410-476D-8FBE-9F9505516097}|RegistroUsuario\\RegistroUsuario.csproj|z:\\desktop\\registro\\registrousuario\\registrousuario\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3564C2A-5410-476D-8FBE-9F9505516097}|RegistroUsuario\\RegistroUsuario.csproj|solutionrelative:registrousuario\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3564C2A-5410-476D-8FBE-9F9505516097}|RegistroUsuario\\RegistroUsuario.csproj|z:\\desktop\\registro\\registrousuario\\registrousuario\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3564C2A-5410-476D-8FBE-9F9505516097}|RegistroUsuario\\RegistroUsuario.csproj|solutionrelative:registrousuario\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3564C2A-5410-476D-8FBE-9F9505516097}|RegistroUsuario\\RegistroUsuario.csproj|z:\\desktop\\registro\\registrousuario\\registrousuario\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A3564C2A-5410-476D-8FBE-9F9505516097}|RegistroUsuario\\RegistroUsuario.csproj|solutionrelative:registrousuario\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3564C2A-5410-476D-8FBE-9F9505516097}|RegistroUsuario\\RegistroUsuario.csproj|z:\\desktop\\registro\\registrousuario\\registrousuario\\models\\phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3564C2A-5410-476D-8FBE-9F9505516097}|RegistroUsuario\\RegistroUsuario.csproj|solutionrelative:registrousuario\\models\\phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3564C2A-5410-476D-8FBE-9F9505516097}|RegistroUsuario\\RegistroUsuario.csproj|z:\\desktop\\registro\\registrousuario\\registrousuario\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3564C2A-5410-476D-8FBE-9F9505516097}|RegistroUsuario\\RegistroUsuario.csproj|solutionrelative:registrousuario\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3564C2A-5410-476D-8FBE-9F9505516097}|RegistroUsuario\\RegistroUsuario.csproj|z:\\desktop\\registro\\registrousuario\\registrousuario\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3564C2A-5410-476D-8FBE-9F9505516097}|RegistroUsuario\\RegistroUsuario.csproj|solutionrelative:registrousuario\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3564C2A-5410-476D-8FBE-9F9505516097}|RegistroUsuario\\RegistroUsuario.csproj|z:\\desktop\\registro\\registrousuario\\registrousuario\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3564C2A-5410-476D-8FBE-9F9505516097}|RegistroUsuario\\RegistroUsuario.csproj|solutionrelative:registrousuario\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3564C2A-5410-476D-8FBE-9F9505516097}|RegistroUsuario\\RegistroUsuario.csproj|z:\\desktop\\registro\\registrousuario\\registrousuario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A3564C2A-5410-476D-8FBE-9F9505516097}|RegistroUsuario\\RegistroUsuario.csproj|c:\\users\\lenovo\\desktop\\bhd prueba\\registrousuario\\registrousuario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A3564C2A-5410-476D-8FBE-9F9505516097}|RegistroUsuario\\RegistroUsuario.csproj|solutionrelative:registrousuario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3564C2A-5410-476D-8FBE-9F9505516097}|RegistroUsuario\\RegistroUsuario.csproj|z:\\desktop\\registro\\registrousuario\\registrousuario\\config\\environment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3564C2A-5410-476D-8FBE-9F9505516097}|RegistroUsuario\\RegistroUsuario.csproj|solutionrelative:registrousuario\\config\\environment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3564C2A-5410-476D-8FBE-9F9505516097}|RegistroUsuario\\RegistroUsuario.csproj|c:\\users\\lenovo\\desktop\\bhd prueba\\registrousuario\\registrousuario\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3564C2A-5410-476D-8FBE-9F9505516097}|RegistroUsuario\\RegistroUsuario.csproj|solutionrelative:registrousuario\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3564C2A-5410-476D-8FBE-9F9505516097}|RegistroUsuario\\RegistroUsuario.csproj|z:\\desktop\\registro\\registrousuario\\registrousuario\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A3564C2A-5410-476D-8FBE-9F9505516097}|RegistroUsuario\\RegistroUsuario.csproj|c:\\users\\lenovo\\desktop\\bhd prueba\\registrousuario\\registrousuario\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3564C2A-5410-476D-8FBE-9F9505516097}|RegistroUsuario\\RegistroUsuario.csproj|solutionrelative:registrousuario\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3564C2A-5410-476D-8FBE-9F9505516097}|RegistroUsuario\\RegistroUsuario.csproj|c:\\users\\lenovo\\desktop\\bhd prueba\\registrousuario\\registrousuario\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A3564C2A-5410-476D-8FBE-9F9505516097}|RegistroUsuario\\RegistroUsuario.csproj|solutionrelative:registrousuario\\.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3564C2A-5410-476D-8FBE-9F9505516097}|RegistroUsuario\\RegistroUsuario.csproj|c:\\users\\lenovo\\desktop\\bhd prueba\\registrousuario\\registrousuario\\services\\tokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3564C2A-5410-476D-8FBE-9F9505516097}|RegistroUsuario\\RegistroUsuario.csproj|solutionrelative:registrousuario\\services\\tokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3564C2A-5410-476D-8FBE-9F9505516097}|RegistroUsuario\\RegistroUsuario.csproj|c:\\users\\lenovo\\desktop\\bhd prueba\\registrousuario\\registrousuario\\helpers\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3564C2A-5410-476D-8FBE-9F9505516097}|RegistroUsuario\\RegistroUsuario.csproj|solutionrelative:registrousuario\\helpers\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3564C2A-5410-476D-8FBE-9F9505516097}|RegistroUsuario\\RegistroUsuario.csproj|c:\\users\\lenovo\\desktop\\bhd prueba\\registrousuario\\registrousuario\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A3564C2A-5410-476D-8FBE-9F9505516097}|RegistroUsuario\\RegistroUsuario.csproj|solutionrelative:registrousuario\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3564C2A-5410-476D-8FBE-9F9505516097}|RegistroUsuario\\RegistroUsuario.csproj|z:\\desktop\\registro\\registrousuario\\registrousuario\\migrations\\20250115145152_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3564C2A-5410-476D-8FBE-9F9505516097}|RegistroUsuario\\RegistroUsuario.csproj|solutionrelative:registrousuario\\migrations\\20250115145152_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3564C2A-5410-476D-8FBE-9F9505516097}|RegistroUsuario\\RegistroUsuario.csproj|c:\\users\\lenovo\\desktop\\bhd prueba\\registrousuario\\registrousuario\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3564C2A-5410-476D-8FBE-9F9505516097}|RegistroUsuario\\RegistroUsuario.csproj|solutionrelative:registrousuario\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3564C2A-5410-476D-8FBE-9F9505516097}|RegistroUsuario\\RegistroUsuario.csproj|c:\\users\\lenovo\\desktop\\bhd prueba\\registrousuario\\registrousuario\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A3564C2A-5410-476D-8FBE-9F9505516097}|RegistroUsuario\\RegistroUsuario.csproj|solutionrelative:registrousuario\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\Desktop\\BHD Prueba\\RegistroUsuario\\RegistroUsuario\\Migrations\\20250116010803_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RegistroUsuario\\Migrations\\20250116010803_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3564C2A-5410-476D-8FBE-9F9505516097}|RegistroUsuario\\RegistroUsuario.csproj|c:\\users\\lenovo\\desktop\\bhd prueba\\registrousuario\\registrousuario\\models\\phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3564C2A-5410-476D-8FBE-9F9505516097}|RegistroUsuario\\RegistroUsuario.csproj|solutionrelative:registrousuario\\models\\phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3564C2A-5410-476D-8FBE-9F9505516097}|RegistroUsuario\\RegistroUsuario.csproj|c:\\users\\lenovo\\desktop\\bhd prueba\\registrousuario\\registrousuario\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3564C2A-5410-476D-8FBE-9F9505516097}|RegistroUsuario\\RegistroUsuario.csproj|solutionrelative:registrousuario\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3564C2A-5410-476D-8FBE-9F9505516097}|RegistroUsuario\\RegistroUsuario.csproj|c:\\users\\lenovo\\desktop\\bhd prueba\\registrousuario\\registrousuario\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3564C2A-5410-476D-8FBE-9F9505516097}|RegistroUsuario\\RegistroUsuario.csproj|solutionrelative:registrousuario\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|Z:\\Desktop\\Registro\\RegistroUsuario\\RegistroUsuario\\Config\\Environment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,159 +65,183 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": ".env",
-              "DocumentMoniker": "Z:\\Desktop\\Registro\\RegistroUsuario\\RegistroUsuario\\.env",
-              "RelativeDocumentMoniker": "RegistroUsuario\\.env",
-              "ToolTip": "Z:\\Desktop\\Registro\\RegistroUsuario\\RegistroUsuario\\.env",
-              "RelativeToolTip": "RegistroUsuario\\.env",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAABEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-01-15T21:35:28.304Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Environment.cs",
-              "DocumentMoniker": "Z:\\Desktop\\Registro\\RegistroUsuario\\RegistroUsuario\\Config\\Environment.cs",
-              "RelativeDocumentMoniker": "RegistroUsuario\\Config\\Environment.cs",
-              "ToolTip": "Z:\\Desktop\\Registro\\RegistroUsuario\\RegistroUsuario\\Config\\Environment.cs",
-              "RelativeToolTip": "RegistroUsuario\\Config\\Environment.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T18:18:26.505Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UserDto.cs",
-              "DocumentMoniker": "Z:\\Desktop\\Registro\\RegistroUsuario\\RegistroUsuario\\Dto\\UserDto.cs",
-              "RelativeDocumentMoniker": "RegistroUsuario\\Dto\\UserDto.cs",
-              "ToolTip": "Z:\\Desktop\\Registro\\RegistroUsuario\\RegistroUsuario\\Dto\\UserDto.cs",
-              "RelativeToolTip": "RegistroUsuario\\Dto\\UserDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T16:56:33.213Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 6,
               "Title": "IUserService.cs",
-              "DocumentMoniker": "Z:\\Desktop\\Registro\\RegistroUsuario\\RegistroUsuario\\Interfaces\\IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\BHD Prueba\\RegistroUsuario\\RegistroUsuario\\Interfaces\\IUserService.cs",
               "RelativeDocumentMoniker": "RegistroUsuario\\Interfaces\\IUserService.cs",
-              "ToolTip": "Z:\\Desktop\\Registro\\RegistroUsuario\\RegistroUsuario\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\BHD Prueba\\RegistroUsuario\\RegistroUsuario\\Interfaces\\IUserService.cs",
               "RelativeToolTip": "RegistroUsuario\\Interfaces\\IUserService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAjAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-15T16:50:20.277Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "UserService.cs",
-              "DocumentMoniker": "Z:\\Desktop\\Registro\\RegistroUsuario\\RegistroUsuario\\Services\\UserService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\BHD Prueba\\RegistroUsuario\\RegistroUsuario\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "RegistroUsuario\\Services\\UserService.cs",
-              "ToolTip": "Z:\\Desktop\\Registro\\RegistroUsuario\\RegistroUsuario\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\BHD Prueba\\RegistroUsuario\\RegistroUsuario\\Services\\UserService.cs",
               "RelativeToolTip": "RegistroUsuario\\Services\\UserService.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAEBdwBQAAAAMAAAA",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAtwEgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-15T16:49:39.15Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "20250115145152_init.cs",
-              "DocumentMoniker": "Z:\\Desktop\\Registro\\RegistroUsuario\\RegistroUsuario\\Migrations\\20250115145152_init.cs",
-              "RelativeDocumentMoniker": "RegistroUsuario\\Migrations\\20250115145152_init.cs",
-              "ToolTip": "Z:\\Desktop\\Registro\\RegistroUsuario\\RegistroUsuario\\Migrations\\20250115145152_init.cs",
-              "RelativeToolTip": "RegistroUsuario\\Migrations\\20250115145152_init.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T14:51:53.356Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "Phone.cs",
-              "DocumentMoniker": "Z:\\Desktop\\Registro\\RegistroUsuario\\RegistroUsuario\\Models\\Phone.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\BHD Prueba\\RegistroUsuario\\RegistroUsuario\\Models\\Phone.cs",
               "RelativeDocumentMoniker": "RegistroUsuario\\Models\\Phone.cs",
-              "ToolTip": "Z:\\Desktop\\Registro\\RegistroUsuario\\RegistroUsuario\\Models\\Phone.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\BHD Prueba\\RegistroUsuario\\RegistroUsuario\\Models\\Phone.cs",
               "RelativeToolTip": "RegistroUsuario\\Models\\Phone.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T14:50:59.555Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T14:50:59.555Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "UserController.cs",
-              "DocumentMoniker": "Z:\\Desktop\\Registro\\RegistroUsuario\\RegistroUsuario\\Controllers\\UserController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\BHD Prueba\\RegistroUsuario\\RegistroUsuario\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "RegistroUsuario\\Controllers\\UserController.cs",
-              "ToolTip": "Z:\\Desktop\\Registro\\RegistroUsuario\\RegistroUsuario\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\BHD Prueba\\RegistroUsuario\\RegistroUsuario\\Controllers\\UserController.cs",
               "RelativeToolTip": "RegistroUsuario\\Controllers\\UserController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAMAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-15T14:49:31.786Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "Z:\\Desktop\\Registro\\RegistroUsuario\\RegistroUsuario\\Program.cs",
-              "RelativeDocumentMoniker": "RegistroUsuario\\Program.cs",
-              "ToolTip": "Z:\\Desktop\\Registro\\RegistroUsuario\\RegistroUsuario\\Program.cs",
-              "RelativeToolTip": "RegistroUsuario\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T14:39:37.881Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "Z:\\Desktop\\Registro\\RegistroUsuario\\RegistroUsuario\\Context\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "RegistroUsuario\\Context\\AppDbContext.cs",
-              "ToolTip": "Z:\\Desktop\\Registro\\RegistroUsuario\\RegistroUsuario\\Context\\AppDbContext.cs",
-              "RelativeToolTip": "RegistroUsuario\\Context\\AppDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T14:33:49.867Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "Users.cs",
-              "DocumentMoniker": "Z:\\Desktop\\Registro\\RegistroUsuario\\RegistroUsuario\\Models\\Users.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\BHD Prueba\\RegistroUsuario\\RegistroUsuario\\Models\\Users.cs",
               "RelativeDocumentMoniker": "RegistroUsuario\\Models\\Users.cs",
-              "ToolTip": "Z:\\Desktop\\Registro\\RegistroUsuario\\RegistroUsuario\\Models\\Users.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\BHD Prueba\\RegistroUsuario\\RegistroUsuario\\Models\\Users.cs",
               "RelativeToolTip": "RegistroUsuario\\Models\\Users.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-15T14:25:07.183Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\BHD Prueba\\RegistroUsuario\\RegistroUsuario\\Program.cs",
+              "RelativeDocumentMoniker": "RegistroUsuario\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\BHD Prueba\\RegistroUsuario\\RegistroUsuario\\Program.cs",
+              "RelativeToolTip": "RegistroUsuario\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T14:39:37.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TokenGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\BHD Prueba\\RegistroUsuario\\RegistroUsuario\\Services\\TokenGenerator.cs",
+              "RelativeDocumentMoniker": "RegistroUsuario\\Services\\TokenGenerator.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\BHD Prueba\\RegistroUsuario\\RegistroUsuario\\Services\\TokenGenerator.cs",
+              "RelativeToolTip": "RegistroUsuario\\Services\\TokenGenerator.cs",
+              "ViewState": "AgIAAAgAAABAMzMzMzMrwBUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T02:33:53.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": ".env",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\BHD Prueba\\RegistroUsuario\\RegistroUsuario\\.env",
+              "RelativeDocumentMoniker": "RegistroUsuario\\.env",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\BHD Prueba\\RegistroUsuario\\RegistroUsuario\\.env",
+              "RelativeToolTip": "RegistroUsuario\\.env",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAC5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-15T21:35:28.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\BHD Prueba\\RegistroUsuario\\RegistroUsuario\\Helpers\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "RegistroUsuario\\Helpers\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\BHD Prueba\\RegistroUsuario\\RegistroUsuario\\Helpers\\ApiResponse.cs",
+              "RelativeToolTip": "RegistroUsuario\\Helpers\\ApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T01:44:42.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250116010803_init.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\BHD Prueba\\RegistroUsuario\\RegistroUsuario\\Migrations\\20250116010803_init.cs",
+              "RelativeDocumentMoniker": "RegistroUsuario\\Migrations\\20250116010803_init.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\BHD Prueba\\RegistroUsuario\\RegistroUsuario\\Migrations\\20250116010803_init.cs",
+              "RelativeToolTip": "RegistroUsuario\\Migrations\\20250116010803_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T01:08:03.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
-              "DocumentMoniker": "Z:\\Desktop\\Registro\\RegistroUsuario\\RegistroUsuario\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\BHD Prueba\\RegistroUsuario\\RegistroUsuario\\appsettings.json",
               "RelativeDocumentMoniker": "RegistroUsuario\\appsettings.json",
-              "ToolTip": "Z:\\Desktop\\Registro\\RegistroUsuario\\RegistroUsuario\\appsettings.json",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\BHD Prueba\\RegistroUsuario\\RegistroUsuario\\appsettings.json",
               "RelativeToolTip": "RegistroUsuario\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-01-15T14:23:37.351Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\BHD Prueba\\RegistroUsuario\\RegistroUsuario\\Dto\\UserDto.cs",
+              "RelativeDocumentMoniker": "RegistroUsuario\\Dto\\UserDto.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\BHD Prueba\\RegistroUsuario\\RegistroUsuario\\Dto\\UserDto.cs",
+              "RelativeToolTip": "RegistroUsuario\\Dto\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T16:56:33.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Environment.cs",
+              "DocumentMoniker": "Z:\\Desktop\\Registro\\RegistroUsuario\\RegistroUsuario\\Config\\Environment.cs",
+              "ToolTip": "Z:\\Desktop\\Registro\\RegistroUsuario\\RegistroUsuario\\Config\\Environment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T18:18:26.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\BHD Prueba\\RegistroUsuario\\RegistroUsuario\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "RegistroUsuario\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\BHD Prueba\\RegistroUsuario\\RegistroUsuario\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "RegistroUsuario\\Context\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T14:33:49.867Z"
             }
           ]
         }

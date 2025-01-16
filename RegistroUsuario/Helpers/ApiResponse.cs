@@ -1,9 +1,11 @@
 ﻿namespace RegistroUsuario.Helpers
 {
-    public class ApiResponse<T>
+    public class ApiResponseMessage<T>
     {
         public bool success { get; set; }
-        public string message { get; set; } = string.Empty;
-        public T? data { get; set; }
+        public T? message { get; set; }
+
+        public ApiResponseMessage() { }
+        public ApiResponseMessage(bool success, T? message) { }
     }
 }

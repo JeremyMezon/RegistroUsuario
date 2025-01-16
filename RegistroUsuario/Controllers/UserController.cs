@@ -6,7 +6,7 @@ using RegistroUsuario.Interfaces;
 namespace RegistroUsuario.Controllers
 {
     [ApiController]
-    [Route("[controller]")]
+    [Route("user")]
     public class UserController : ControllerBase
     {
         private IUserService userService;
@@ -20,7 +20,13 @@ namespace RegistroUsuario.Controllers
         [HttpPost]
         public async Task<ActionResult> UserRegister([FromBody]UserDto user )
         {
-            var User = await userService.UserRegister(user);
+            if (!ModelState.IsValid) { 
+                return BadRequest(new { message = "El modelo de request no es valido" });
+            }
+            var userValidation = userService.validateUser(user);
+            if(!userValidation.success) return BadRequest(userValidation);
+
+            var User = await userService.userRegister(user);
             return Created("/", User);
         }
 

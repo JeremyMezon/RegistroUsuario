@@ -9425,19 +9425,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jeremymezon\\.nuget\\packages\\": {}
+    "C:\\Users\\LENOVO\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Z:\\Desktop\\Registro\\RegistroUsuario\\RegistroUsuario\\RegistroUsuario.csproj",
+      "projectUniqueName": "C:\\Users\\LENOVO\\Desktop\\BHD Prueba\\RegistroUsuario\\RegistroUsuario\\RegistroUsuario.csproj",
       "projectName": "RegistroUsuario",
-      "projectPath": "Z:\\Desktop\\Registro\\RegistroUsuario\\RegistroUsuario\\RegistroUsuario.csproj",
-      "packagesPath": "C:\\Users\\jeremymezon\\.nuget\\packages\\",
-      "outputPath": "Z:\\Desktop\\Registro\\RegistroUsuario\\RegistroUsuario\\obj\\",
+      "projectPath": "C:\\Users\\LENOVO\\Desktop\\BHD Prueba\\RegistroUsuario\\RegistroUsuario\\RegistroUsuario.csproj",
+      "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\LENOVO\\Desktop\\BHD Prueba\\RegistroUsuario\\RegistroUsuario\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\jeremymezon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -9462,7 +9467,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net8.0": {
@@ -9510,7 +9516,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

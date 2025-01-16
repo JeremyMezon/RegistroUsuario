@@ -14,5 +14,8 @@ msbuild.err
 msbuild.wrn
 Migrations
 
+# Visual Studio
+.vs/
+
 # Environment
 .env
