@@ -21,7 +21,7 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 );
 
 Env.Load();
-
+builder.Services.AddSingleton<TokenGenerator>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
